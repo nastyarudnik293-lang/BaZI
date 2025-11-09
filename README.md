@@ -1,0 +1,2 @@
+# BaZI
+Shkola metafiziki Bazi
